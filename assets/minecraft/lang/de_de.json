@@ -1,0 +1,52 @@
+# Language: German / Deutsch (Deutschland)
+# Author: Pretorer
+
+{
+    # tellraw
+    "§dAmethyst-fast-travel §5has been reloaded.": "§dAmethyst-Schnellreisen §5wurde neu geladen.",
+    "§dAmethyst-fast-travel §5has been removed.": "§dAmethyst-Schnellreisen §5wurde entfernt.",
+    "%1$s §5has built a new §dteleporter§5!": "%1$s §5hat einen neuen §dTeleporter §5gebaut!",
+    "§5You have selected the first §dteleporter§5!": "§5Du hast den ersten §dTeleporter §5ausgewählt!",
+    "%1$s §5has connected two §dteleporters§5!": "%1$s §5hat zwei §dTeleporter §5verbunden!",
+    "§5A §dteleporter §5has lost its destination!": "§5Ein §dTeleporter §5hat sein Ziel verloren!",
+    "%1$s §5has destroyed a §dteleporter§5!": "%1$s §5hat einen §dTeleporter §5zerstört!",
+
+    # book
+    "Fast travel": "Schnellreisen",
+    "\u2551   Notes of a  \u2551": "\u2551 Notizen eines \u2551",
+    "\u2551    traveler   \u2551": "\u2551   Reisenden   \u2551",
+    "Table of content:": "Inhalt:",
+    " \u2666 Setup\n \u2666 Classes\n \u2666 Activation\n \u2666 Connection\n \u2666 Teleportation\n \u2666 Removal\n": " \u2666 Aufbau\n \u2666 Klassen\n \u2666 Aktivierung\n \u2666 Verbinden\n \u2666 Teleportieren\n \u2666 Abbauen",
+    "Setup:": "Aufbau:",
+    "To build a teleporter, a platform must be built.": "Um einen Teleporter zu bauen, muss eine Platform gebaut werden.",
+    "Top view of the platform:": "Draufsicht der Platform:",
+    "Legend:": "Legende:",
+    "Amethyst block": "Amethystblock",
+    "Catalyzer": "Katalysator",
+    "Classes:": "Klassen:",
+    "The \"Catalyst\" block determines the time the teleporter needs to channel. In addition, not all teleporters can be kept permanently active in all diminsions. For this the right \"catalyst\" must be chosen.": "Der \"Katalysator\" Block bestimmt die Zeit die der Teleporter benötigt um zu kanalisieren. Zudem können nicht alle Teleporter in allen Diminsionen dauerhaft aktiv gehalten werden. Hierzu muss der richtige \"Katalysator\" gewählt werden.",
+    "Block (time) worlds:": "Block (Zeit) Welten:",
+    "Copper (10s)": "Kupfer (10s)",
+    "Iron (6s)": "Eisen (6s)",
+    "Gold (3s)": "Gold (3s)",
+    "Emerald (2s)": "Smaragd (2s)",
+    "Diamond (1.5s)": "Diamant (1.5s)",
+    "Netherite (1s)": "Netherite (1s)",
+    "Overworld": "Oberwelt",
+    "Nether": "Nether",
+    "End": "End",
+    "Activation:": "Aktivierung:",
+    "To activate the platform of a teleporter, you must stand in the middle of the platform.": "Um die Platform eines Teleporters zu aktivieren, muss sich in der Mitte der Platform gestellt werden.",
+    "Connection:": "Verbinden:",
+    "To connect two teleporters, the first one must be marked first. To do this, stand in the center of an activated unconnected teleporter and hold an amethyst shard in your hand.": "Um zwei Teleporter zu verbinden, muss zunächst der Erste makiert werden. Hierzu muss sich mittig auf einen aktivierten unverbundenen Teleporter gestellt werden und eine Amethystscherbe in der Hand gehalten werden.",
+    "Teleportation:": "Teleportieren:",
+    "To teleport, stand in the center of an activated connected teleporter and hold an amethyst shard in your hand. Now the teleport starts to channel.": "Zum Teleportieren muss sich mittig auf einen aktivierten verbundenen Teleporter gestellt werden und eine Amethystscherbe in der Hand gehalten werden. Nun fänget der Teleport an zu kanalisieren.",
+    "NPCs can be taken along by standing on the teleporter. However, these also consume an amethyst shard.": "Es können NPCs mitgenommen werden, indem diese mit auf dem Teleporter stehen. Diese verbrauchen jedoch ebenfalls eine Amethystscherbe.",
+    "After teleportation, the platform must be re-entered or the amethyst shard must be taken in hand again.": "Nach einem Teleport muss die Platform erneut betreten werden oder die Amethystscherbe erneut in die Hand genommen werden.",
+    "Removal:": "Abbauen:",
+    "If a block of the platform of an activated teleporter is removed, the teleporter is destroyed.": "Wird ein Block der Platform eines aktivierten Teleporters entfernt, so wird der Teleporter zerstört.",
+    "A possibly connected teleporter will now also no longer work.": "Ein möglicherweise verbundener Teleporter funktioniert nun auch nicht mehr.",
+    "Amethyst fast travel": "Amethyst-Schnellreisen",
+    "AmethystTraveling": "AmethystReisen",
+    "Travel with amethysts between distant places.": "Reise mit Amethysten zwischen weit entfernten Orten."
+}
