@@ -1,5 +1,5 @@
-# AmethystTraveling-language-pack
-A resource pack that translates the [AmethystTraveling datapack](https://github.com/Pretorer/AmethystTraveling).
+# AmethystTravelling-language-pack
+A resource pack that translates the [AmethystTravelling datapack](https://github.com/Pretorer/AmethystTravelling).
 
 ## Currently supported languages:
 - English (default without language pack)
