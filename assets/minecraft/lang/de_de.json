@@ -52,6 +52,8 @@
     "To travel, stand in the center of an activated connected fast travel point and hold an amethyst shard in your hand. Now the fast travel starts to channel.": "Zum Reisen muss sich mittig auf einen aktivierten verbundenen Schnellreisepunkt gestellt werden und eine Amethystscherbe in der Hand gehalten werden. Nun fänget die Schnellreise an zu kanalisieren.",
     "NPCs can be taken along by standing on the fast travel point. However, these also consume an amethyst shard.": "Es können NPCs mitgenommen werden, indem diese mit auf dem Schnellreisepunkt stehen. Diese verbrauchen jedoch ebenfalls eine Amethystscherbe.",
     "After travelling, the platform must be re-entered or the amethyst shard must be taken in hand again.": "Nach einem Teleport muss die Platform erneut betreten werden oder die Amethystscherbe erneut in die Hand genommen werden.",
+    "Renaming:": "Umbenennung:",
+    "When a fast travel point is renamed with a name tag, its name is shown when you travels to it.": "Wenn ein Schnellreisepunkt mit einem Namensschild umbenannt wird, wird sein Name angezeigt, wenn man zu ihm reist.",
     "Removal:": "Abbauen:",
     "If a block of the platform of an activated fast travel point is removed, the fast travel point is destroyed.": "Wird ein Block der Platform eines aktivierten Schnellreisepunktes entfernt, so wird der Schnellreisepunkt zerstört.",
     "A possibly connected fast travel point will now also no longer work.": "Ein möglicherweise verbundener Schnellreisepunkt funktioniert nun auch nicht mehr.",
