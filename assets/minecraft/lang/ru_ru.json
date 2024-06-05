@@ -1,0 +1,52 @@
+# Language: Russian
+# Author: Ll66dar
+
+{
+    # tellraw
+    "%1$s §5has built a new §dfast travel point§5!": "%1$s §5построил новый §dтелепорт§5!",
+    "§5You have selected the first §dfast travel point§5!": "§5Вы отметили первый §dтелепорт§5!",
+    "%1$s §5has connected two §dfast travel points§5!": "%1$s §5соединил 2 §dтелепорта§5!",
+    "§5This tier of a §dfast travel point§5 cannot be activated here!": "§5Этот тир §dтелепорта §5не может быть активирован здесь!",
+    "§5A §dfast travel point §5has lost its destination!": "§5Конечный §dтелепорт §5был потерян!",
+    "%1$s §5has destroyed a §dfast travel point§5!": "%1$s §5сломал §dтелепорт!",
+    
+    # bossbar
+    "Channelling": "Перемещение",
+
+    # title
+    "New location:": "Новая локация:",
+
+    # advancements
+    "What's going wrong here?": "Так, погоди-ка. Что-то здесь не так",
+    "The chosen catalyst block seems to be too weak here": "Выбранный блок катализатора здесь кажется слишком слабым",
+    "Discover tier 1": "Первый тир",
+    "Besides copper use an iron, gold or emerald block as a catalyst": "Помимо меди используйте железный, золотой или изумрудный блок для катализатора",
+    "Discover tier 3": "Третий тир",
+    "Use a block of netherite as a catalyst": "Используйте блок незерита в качестве катализатора",
+    "Discover tier 2": "Второй тир",
+    "Use a diamond block as a catalyst": "Используйте алмазный блок в качестве катализатора",
+    "Build a fast travel point": "Постройка аметистового телепорта",
+    "Build a 3x3 platform by placing 8 amethyst blocks in a square around a copper block as a catalyst. Then stand in the middle of the unactivated platform": "Постройте платформу 3x3, разместив 8 блоков аметиста вокруг блока меди в качестве катализатора. Затем встаньте на центр неактивированной платформы.",
+    "Appeared with a blast": "Бомбическое появление",
+    "Travel with a creeper": "Телепортируйтесь с крипером",
+    "Was that risky?": "Это было рискованно?",
+    "Travel with a hostile creature": "Телепортируйтесь с враждебным мобом",
+    "Did you see the cost?": "Вы видели стоимость?",
+    "Travel with a passive creature": "Телепортируйтесь с мобом",
+    "Connect two fast travel points": "Подключение телепортов",
+    "Stand in the center of an unconnected platform and hold an amethyst shard. Then repeat that for the destination": "Встаньте в центр несвязанного телепорта. Затем повторите это для конечного телепорта.",
+    "Remove a fast travel point": "Осуждаю",
+    "Break one block of the platform of a fast travel point": "Сломал телепорт",
+    "Choosed a matching name": "Подходящее название",
+    "Travel to a renamed fast travel point. To rename a fast travel point, use a name tag on the center of the platform": "Телепортируйтесь через переименованную точку быстрого перемещения. Чтобы переименовать телепорт, используйте бирку с именем на центр платформы.",
+    "Amethysttravelling": "Аметистовые Телепорты",
+    "You feel that these gems have something magical ...": "Чувствуется, что в этих драгоценных камнях есть что-то волшебное...",
+    "The wrong destination?": "Что-то пошло не по плану",
+    "Leave the platform before the fast travel point is fully channelized": "Покиньте платформу до того, как шкала заполнится",
+    "Is my destination destroyed?": "Просто дайте мне уже пульт от ядерки",
+    "Travel with a fast travel point to a destroyed platform": "Попытался переместиться к разрушенной платформе",
+    "Arcane traveler": "Арканный путешественник",
+    "Use a fast travel point in the nether, the overworld, and the end": "Используйте точку быстрого перемещения в аду, верхнем мире и энде",
+    "That was pretty fast": "Это было довольно быстро",
+    "Stand on a connected platform and hold an amethyst shard in your hand": "Встаньте на подключенную платформу и держите в руке осколок аметиста"
+}
