@@ -4,5 +4,6 @@ A resource pack that translates the [AmethystTravelling datapack](https://github
 ## Currently supported languages:
 - English (default without language pack)
 - German
-
+- Russian
+  
 Feel free to add your language and make a pull request.
