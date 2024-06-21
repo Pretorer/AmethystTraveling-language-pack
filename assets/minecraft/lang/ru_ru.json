@@ -17,7 +17,7 @@
     "New location:": "Новая локация:",
 
     # advancements
-    "What's going wrong here?": "Так, погоди-ка. Что-то здесь не так",
+    "What's going wrong here?": "Что-то здесь не так",
     "The chosen catalyst block seems to be too weak here": "Выбранный блок катализатора здесь кажется слишком слабым",
     "Discover tier 1": "Первый тир",
     "Besides copper use an iron, gold or emerald block as a catalyst": "Помимо меди используйте железный, золотой или изумрудный блок для катализатора",
@@ -43,7 +43,7 @@
     "You feel that these gems have something magical ...": "Чувствуется, что в этих драгоценных камнях есть что-то волшебное...",
     "The wrong destination?": "Что-то пошло не по плану",
     "Leave the platform before the fast travel point is fully channelized": "Покиньте платформу до того, как шкала заполнится",
-    "Is my destination destroyed?": "Просто дайте мне уже пульт от ядерки",
+    "Is my destination destroyed?": "",
     "Travel with a fast travel point to a destroyed platform": "Попытался переместиться к разрушенной платформе",
     "Arcane traveler": "Арканный путешественник",
     "Use a fast travel point in the nether, the overworld, and the end": "Используйте точку быстрого перемещения в аду, верхнем мире и энде",
